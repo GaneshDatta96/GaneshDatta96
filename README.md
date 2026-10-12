@@ -36,6 +36,11 @@ Most of this code is private because it touches patient data or client work. The
 
 The thinking behind it: [the Decision Cost Framework](https://ganeshdatta.me/decision-cost-framework/), and [free tools](https://ganeshdatta.me/tools/) to score your own workflows.
 
+### Open source
+
+- [**decision-cost**](https://github.com/GaneshDatta96/decision-cost): ten questions that show how much human judgment one workflow spends. Embeddable. [Try it](https://ganeshdatta96.github.io/decision-cost/)
+- [**clinic-leak-calculator**](https://github.com/GaneshDatta96/clinic-leak-calculator): what a clinic loses each month to unanswered enquiries and no-shows. One file, drop it on any site. [Try it](https://ganeshdatta96.github.io/clinic-leak-calculator/)
+
 ### Stack I ship with
 
 Next.js · React · TypeScript · Python · Supabase / Postgres · OpenAI / OpenRouter · Expo · Shopify · Vercel
